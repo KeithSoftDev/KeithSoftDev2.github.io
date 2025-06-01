@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <circle cx="200" cy="150" r="100" fill="#F5F1EE"/>
+    
+    <!-- Social Media Elements -->
+    <g transform="translate(100, 70)">
+        <!-- Profile Card -->
+        <rect x="0" y="0" width="200" height="160" rx="15" fill="#D2691E"/>
+        
+        <!-- Profile Picture -->
+        <circle cx="40" cy="40" r="25" fill="#8B4513"/>
+        <path d="M25 40 L55 40 M40 25 L40 55" stroke="white" stroke-width="2"/>
+        
+        <!-- Post Content -->
+        <rect x="80" y="25" width="100" height="8" rx="4" fill="#F5F1EE"/>
+        <rect x="80" y="40" width="60" height="8" rx="4" fill="#F5F1EE"/>
+        
+        <!-- Interaction Buttons -->
+        <g transform="translate(20, 100)">
+            <circle cx="20" cy="20" r="15" fill="#8B4513"/>
+            <path d="M15 20 L25 20 M20 15 L20 25" stroke="white" stroke-width="2"/>
+            
+            <circle cx="60" cy="20" r="15" fill="#8B4513"/>
+            <path d="M55 20 L65 20" stroke="white" stroke-width="2"/>
+            
+            <circle cx="100" cy="20" r="15" fill="#8B4513"/>
+            <path d="M95 20 Q100 15 105 20 Q100 25 95 20" stroke="white" stroke-width="2"/>
+        </g>
+    </g>
+    
+    <!-- Decorative Elements -->
+    <circle cx="300" cy="80" r="15" fill="#B08B75" opacity="0.3"/>
+    <circle cx="100" cy="200" r="20" fill="#D2691E" opacity="0.3"/>
+    <circle cx="320" cy="220" r="25" fill="#8B4513" opacity="0.3"/>
+</svg>

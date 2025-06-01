@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <circle cx="200" cy="150" r="100" fill="#F5F1EE"/>
+    
+    <!-- Chat Bubbles Container -->
+    <g transform="translate(100, 80)">
+        <!-- AI Chat Bubble -->
+        <rect x="0" y="0" width="160" height="60" rx="20" fill="#D2691E"/>
+        <text x="20" y="35" fill="white" font-family="Arial" font-size="14">How can I help you?</text>
+        
+        <!-- User Chat Bubble -->
+        <rect x="40" y="80" width="160" height="60" rx="20" fill="#8B4513"/>
+        <text x="60" y="115" fill="white" font-family="Arial" font-size="14">Tell me about AI!</text>
+        
+        <!-- AI Response Bubble -->
+        <rect x="0" y="160" width="200" height="60" rx="20" fill="#D2691E"/>
+        <text x="20" y="195" fill="white" font-family="Arial" font-size="14">AI is transforming the world...</text>
+    </g>
+    
+    <!-- Decorative Elements -->
+    <circle cx="300" cy="80" r="15" fill="#B08B75" opacity="0.3"/>
+    <circle cx="100" cy="200" r="20" fill="#D2691E" opacity="0.3"/>
+    <circle cx="320" cy="220" r="25" fill="#8B4513" opacity="0.3"/>
+</svg>

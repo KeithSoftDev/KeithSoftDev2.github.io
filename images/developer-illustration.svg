@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="300" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="300" fill="#F5F1EE" opacity="0.1"/>
+  
+  <!-- Developer figure -->
+  <g transform="translate(120,40)">
+    <!-- Professional hairstyle -->
+    <path d="M80 30
+             C40 30, 35 90, 55 120
+             C75 150, 85 150, 105 120
+             C125 90, 120 30, 80 30"
+          fill="#4A2D20"/>
+    
+    <!-- Face -->
+    <circle cx="80" cy="65" r="25" fill="#D2691E"/>
+    <!-- Professional expression -->
+    <path d="M68 65 Q80 70 92 65" 
+          stroke="#4A2D20" 
+          stroke-width="2" 
+          stroke-linecap="round"
+          fill="none"/>
+    
+    <!-- Business casual attire -->
+    <path d="M55 90
+             L105 90
+             L115 200
+             L45 200
+             Z" 
+          fill="#D2691E"/>
+    
+    <!-- Modern workstation -->
+    <rect x="20" y="120" width="120" height="75" rx="8" fill="#8B4513"/>
+    <rect x="25" y="125" width="110" height="65" rx="4" fill="#F5F1EE"/>
+    
+    <!-- Code on screen -->
+    <rect x="35" y="135" width="90" height="2.5" rx="1" fill="#8B4513" opacity="0.4"/>
+    <rect x="35" y="142" width="70" height="2.5" rx="1" fill="#8B4513" opacity="0.4"/>
+    <rect x="35" y="149" width="80" height="2.5" rx="1" fill="#8B4513" opacity="0.4"/>
+    <rect x="35" y="156" width="60" height="2.5" rx="1" fill="#8B4513" opacity="0.4"/>
+    
+    <!-- Professional posture -->
+    <path d="M50 110 Q40 130 52 150" 
+          stroke="#D2691E" 
+          stroke-width="10" 
+          stroke-linecap="round"
+          fill="none"/>
+    <path d="M110 110 Q120 130 108 150" 
+          stroke="#D2691E" 
+          stroke-width="10" 
+          stroke-linecap="round"
+          fill="none"/>
+  </g>
+</svg>

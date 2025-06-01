@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Shopping cart -->
+    <circle cx="200" cy="150" r="100" fill="#F5F1EE"/>
+    <path d="M160 170h100l20-60H140l20 60z" fill="#D2691E"/>
+    <path d="M175 180h70v10h-70z" fill="#8B4513"/>
+    <circle cx="180" cy="210" r="10" fill="#4A2D20"/>
+    <circle cx="240" cy="210" r="10" fill="#4A2D20"/>
+    
+    <!-- Shopping items -->
+    <rect x="120" cy="90" width="30" height="30" rx="5" fill="#B08B75"/>
+    <rect x="170" cy="70" width="30" height="30" rx="5" fill="#D2691E"/>
+    <rect x="220" cy="90" width="30" height="30" rx="5" fill="#8B4513"/>
+    
+    <!-- Decorative elements -->
+    <circle cx="300" cy="80" r="15" fill="#B08B75" opacity="0.3"/>
+    <circle cx="100" cy="200" r="20" fill="#D2691E" opacity="0.3"/>
+    <circle cx="320" cy="220" r="25" fill="#8B4513" opacity="0.3"/>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Task board background -->
+    <rect x="50" y="50" width="300" height="200" rx="10" fill="#F5F1EE"/>
+    
+    <!-- Task columns -->
+    <rect x="70" y="70" width="80" height="160" rx="5" fill="#FAF9F6"/>
+    <rect x="160" y="70" width="80" height="160" rx="5" fill="#FAF9F6"/>
+    <rect x="250" y="70" width="80" height="160" rx="5" fill="#FAF9F6"/>
+    
+    <!-- Task cards -->
+    <rect x="75" y="85" width="70" height="40" rx="3" fill="#D2691E"/>
+    <rect x="75" y="135" width="70" height="40" rx="3" fill="#8B4513"/>
+    <rect x="165" y="85" width="70" height="40" rx="3" fill="#B08B75"/>
+    <rect x="165" y="135" width="70" height="40" rx="3" fill="#D2691E"/>
+    <rect x="255" y="85" width="70" height="40" rx="3" fill="#8B4513"/>
+    
+    <!-- Column headers -->
+    <rect x="75" y="75" width="40" height="5" rx="2.5" fill="#4A2D20"/>
+    <rect x="165" y="75" width="40" height="5" rx="2.5" fill="#4A2D20"/>
+    <rect x="255" y="75" width="40" height="5" rx="2.5" fill="#4A2D20"/>
+    
+    <!-- Decorative dots -->
+    <circle cx="320" cy="40" r="15" fill="#B08B75" opacity="0.3"/>
+    <circle cx="80" cy="260" r="20" fill="#D2691E" opacity="0.3"/>
+    <circle cx="350" cy="200" r="25" fill="#8B4513" opacity="0.3"/>
+</svg>
